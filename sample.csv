@@ -1,0 +1,5 @@
+booking_id,room,date,start,end,booked_by
+B-1,Room A,2026-11-11,09:00,10:00,Ali
+B-2,Room A,2026-11-11,09:30,10:30,Sara
+B-3,Room A,2026-11-11,11:00,12:00,Omar
+B-4,Room B,2026-11-11,09:00,10:00,Bob
